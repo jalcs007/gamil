@@ -10,11 +10,14 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>gmail-product</module>
         <module>gmail-ware</module>
+        <module>gmail-product</module>
         <module>gmail-coupon</module>
         <module>gmail-member</module>
         <module>gmail-order</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>gmall-common</module>
     </modules>
 
 
